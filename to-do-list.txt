@@ -5,5 +5,6 @@ Finnnnn
 10-2-2024
 - Find the dataset for the project
 
-11-2-2024
-- 
+18-2-2024
+- data preprocessing
+- word embeddings

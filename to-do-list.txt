@@ -7,4 +7,4 @@ Finnnnn
 
 18-2-2024
 - data preprocessing
-- word embeddings
+- word encoding

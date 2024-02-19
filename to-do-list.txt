@@ -8,3 +8,7 @@ Finnnnn
 18-2-2024
 - data preprocessing
 - word encoding
+
+19-2-2024
+- word embedding with pytorch: completed...
+

@@ -1,4 +1,5 @@
 This is FinnSentiment, a dataset of Finnish social media comments (and their translated comments) 
 	from https://paperswithcode.com/dataset/finnsentiment.
 
-- We chose English and Finnish comments from the dataset.
+- There are 2 folders: 'bin' and 'multi'. ('bin' for binary classification task, and 'multi' for multi-label classification task)
+- English and Finnish comments are chosen from the dataset.

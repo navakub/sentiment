@@ -5,3 +5,5 @@
 * in this project, we used python and keras, nn library, to classify tones of the texts.
 * in this project, the accuracy of the nn model is nearly 70% (around 68%)
 * the gru works much faster and slightly accurate, but it is not accurate for some texts.
+
+link to the jupyter notebook [here](/fin-keras.ipynb)
